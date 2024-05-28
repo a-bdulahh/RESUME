@@ -1,0 +1,205 @@
+.navBar {
+    background-color: black;
+    width: 85vw;
+    height: 60px;
+    border-radius: 40px;
+    position: absolute;
+    bottom: 0px;
+    padding-top: 35px;
+    left: 85px;
+    bottom: 25px;
+    position: fixed;
+}
+
+.same {
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+    font-size: 18px;
+}
+
+.same:hover {
+    box-shadow: 0px 2px 3px 0px white;
+    border-radius: 7px;
+}
+
+/* #active {
+    box-shadow: 0px 2px 3px 0px white;
+    border-radius: 7px;
+    display: inline-block;
+} */
+
+#profileArea {
+    background-color: #0c0c0c;
+    width: 40vw;
+    height: 100vh;
+    display: inline-block;
+}
+
+#nameArea {
+    background-color: #0b1215;
+    height: 100vh;
+    width: 831px;
+    position: relative;
+    float: right;
+    /* display: inline-block; */
+    z-index: -1;
+}
+
+img {
+    border-radius: 50%;
+    margin-left: 170px;
+    margin-top: 180px;
+    height: 240px;
+    width: 240px;
+    /* border: 2px solid yellow; */
+}
+
+img:hover {
+    box-shadow: 0px 0px 5px 2px yellow;
+}
+
+#number {
+    color: white;
+    margin-left: 179px;
+    margin-top: 45px;
+}
+
+.name {
+    color: white;
+}
+
+#location {
+    color: white;
+}
+
+#intro {
+    margin-left: 185px;
+    margin-top: 240px;
+    font-size: 20px;
+    font-family: Georgia;
+}
+
+#educationBody {
+    background-color: #0b1215;
+}
+
+#indexBody {
+    background-color: #0c0c0c;
+    
+}
+
+#pTwo {
+    width: 110px;
+    height: 110px;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+
+#educationProfile {
+    display: inline-block;
+    margin-left: 200px;
+}
+
+#educationName {
+    color: white;
+    display: inline-block;
+    font-size: 27px;
+    position: absolute;
+    margin-top: 63px;
+    margin-left: 50px;
+}
+
+#school {
+    color: white;
+    font-size: 25px;
+    margin-left: 330px;
+    margin-top: 125px;
+}
+
+#schoolTwo {
+    color: white;
+    font-size: 27px;
+    margin-left: 330px;
+    margin-top: 125px;
+}
+
+#schoolThree {
+    color: white;
+    font-size: 30px;
+    margin-left: 330px;
+    margin-top: 125px;
+}
+
+#line {
+    position: absolute;
+    background-color: white;
+    height: 210px;
+    width: 2px;
+    z-index: 1;
+    margin-top: 125px;
+    margin-left: 300px;
+}
+
+#lineTwo {
+    position: absolute;
+    background-color: white;
+    height: 185px;
+    width: 2px;
+    z-index: 1;
+    margin-top: 125px;
+    margin-left: 300px;
+}
+
+#lineThree {
+    position: absolute;
+    background-color: white;
+    height: 147px;
+    width: 2px;
+    z-index: 1;
+    margin-top: 125px;
+    margin-left: 300px;
+}
+
+#lineFour {
+    position: absolute;
+    background-color: white;
+    height: 155px;
+    width: 2px;
+    z-index: 1;
+    margin-top: 32px;
+    margin-left: 350px;
+}
+
+#skillBody {
+    background-color: #0b1215;
+}
+#hobbyBody {
+    background-color: #0b1215;
+}
+
+#contactBody {
+    background-color: #0b1215;
+}
+
+#milo {
+    margin-left: 215px;
+    margin-top: 70px;
+}
+
+#put {
+    color: white;
+    margin-left: 390px;
+    font-size: 18px;
+    margin-top: 55px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+/* #home {
+    box-shadow: 0px 2px 3px 0px white;
+    border-radius: 7px;   
+} */
